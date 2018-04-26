@@ -2,6 +2,6 @@
 * Rails Version -> 4.2.5
 
 Gems :
-  Device
-  Bootstrap
+  * Devise
+  * Bootstrap
   
